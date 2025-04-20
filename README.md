@@ -1,7 +1,5 @@
 # MovieAppClone
 
-Here’s a **project-specific README.md** tailored to your Movie App, focusing only on the features, setup, and structure of your project:
-
 ---
 
 # 🎬 Movie App (Jetpack Compose + Koin + Ktor + Room)
